@@ -106,7 +106,7 @@ iframe {
 <!-- Begin page content -->
 
 <div class="container">
-          <h3 class="mt-5">Descargar buscador de videos PHP YouTube API</h3>
+          <h3 class="mt-5">Buscador de videos PHP YouTube </h3>
           <hr>
           <div class="row">
     <div class="col-12 col-md-12">
