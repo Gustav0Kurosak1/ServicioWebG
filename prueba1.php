@@ -48,7 +48,7 @@ if ($err) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Completar nombre de canciones</title>
+    <title>Busca el titulo de la cancion: </title>
 </head>
 <body  >
     <center>
@@ -62,7 +62,7 @@ if ($err) {
         <?php
         if(isset($response)!=null){
         ?>
-        <table width="300">
+        <table width="400">
             <tr>
                 <td><h2>Resultados</h2></td>
             </tr>
